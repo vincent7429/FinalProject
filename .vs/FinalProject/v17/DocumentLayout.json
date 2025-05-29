@@ -1,0 +1,294 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vince\\OneDrive - Rancho Santiago Community College District\\Documents\\CMPR105\\FinalProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{75821023-ED5F-4A4E-AF26-9E379FECFBDF}|FinalProject\\FinalProject.vbproj|C:\\Users\\vince\\OneDrive - Rancho Santiago Community College District\\Documents\\CMPR105\\FinalProject\\finalproject\\auth.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{75821023-ED5F-4A4E-AF26-9E379FECFBDF}|FinalProject\\FinalProject.vbproj|solutionrelative:finalproject\\auth.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75821023-ED5F-4A4E-AF26-9E379FECFBDF}|FinalProject\\FinalProject.vbproj|C:\\Users\\vince\\OneDrive - Rancho Santiago Community College District\\Documents\\CMPR105\\FinalProject\\finalproject\\regristration.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{75821023-ED5F-4A4E-AF26-9E379FECFBDF}|FinalProject\\FinalProject.vbproj|solutionrelative:finalproject\\regristration.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75821023-ED5F-4A4E-AF26-9E379FECFBDF}|FinalProject\\FinalProject.vbproj|C:\\Users\\vince\\OneDrive - Rancho Santiago Community College District\\Documents\\CMPR105\\FinalProject\\finalproject\\mainform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{75821023-ED5F-4A4E-AF26-9E379FECFBDF}|FinalProject\\FinalProject.vbproj|solutionrelative:finalproject\\mainform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75821023-ED5F-4A4E-AF26-9E379FECFBDF}|FinalProject\\FinalProject.vbproj|C:\\Users\\vince\\OneDrive - Rancho Santiago Community College District\\Documents\\CMPR105\\FinalProject\\finalproject\\login.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{75821023-ED5F-4A4E-AF26-9E379FECFBDF}|FinalProject\\FinalProject.vbproj|solutionrelative:finalproject\\login.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75821023-ED5F-4A4E-AF26-9E379FECFBDF}|FinalProject\\FinalProject.vbproj|C:\\Users\\vince\\OneDrive - Rancho Santiago Community College District\\Documents\\CMPR105\\FinalProject\\finalproject\\editform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{75821023-ED5F-4A4E-AF26-9E379FECFBDF}|FinalProject\\FinalProject.vbproj|solutionrelative:finalproject\\editform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75821023-ED5F-4A4E-AF26-9E379FECFBDF}|FinalProject\\FinalProject.vbproj|C:\\Users\\vince\\OneDrive - Rancho Santiago Community College District\\Documents\\CMPR105\\FinalProject\\finalproject\\settingsmenu.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{75821023-ED5F-4A4E-AF26-9E379FECFBDF}|FinalProject\\FinalProject.vbproj|solutionrelative:finalproject\\settingsmenu.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75821023-ED5F-4A4E-AF26-9E379FECFBDF}|FinalProject\\FinalProject.vbproj|C:\\Users\\vince\\OneDrive - Rancho Santiago Community College District\\Documents\\CMPR105\\FinalProject\\finalproject\\settingsmenu.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{75821023-ED5F-4A4E-AF26-9E379FECFBDF}|FinalProject\\FinalProject.vbproj|solutionrelative:finalproject\\settingsmenu.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|FinalProject||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75821023-ED5F-4A4E-AF26-9E379FECFBDF}|FinalProject\\FinalProject.vbproj|c:\\users\\vince\\onedrive - rancho santiago community college district\\documents\\cmpr105\\finalproject\\finalproject\\login.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{75821023-ED5F-4A4E-AF26-9E379FECFBDF}|FinalProject\\FinalProject.vbproj|solutionrelative:finalproject\\login.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75821023-ED5F-4A4E-AF26-9E379FECFBDF}|FinalProject\\FinalProject.vbproj|c:\\users\\vince\\onedrive - rancho santiago community college district\\documents\\cmpr105\\finalproject\\finalproject\\mainform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{75821023-ED5F-4A4E-AF26-9E379FECFBDF}|FinalProject\\FinalProject.vbproj|solutionrelative:finalproject\\mainform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75821023-ED5F-4A4E-AF26-9E379FECFBDF}|FinalProject\\FinalProject.vbproj|c:\\users\\vince\\onedrive - rancho santiago community college district\\documents\\cmpr105\\finalproject\\finalproject\\editform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{75821023-ED5F-4A4E-AF26-9E379FECFBDF}|FinalProject\\FinalProject.vbproj|solutionrelative:finalproject\\editform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75821023-ED5F-4A4E-AF26-9E379FECFBDF}|FinalProject\\FinalProject.vbproj|c:\\users\\vince\\onedrive - rancho santiago community college district\\documents\\cmpr105\\finalproject\\finalproject\\regristration.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{75821023-ED5F-4A4E-AF26-9E379FECFBDF}|FinalProject\\FinalProject.vbproj|solutionrelative:finalproject\\regristration.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75821023-ED5F-4A4E-AF26-9E379FECFBDF}|FinalProject\\FinalProject.vbproj|c:\\users\\vince\\onedrive - rancho santiago community college district\\documents\\cmpr105\\finalproject\\finalproject\\auth.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{75821023-ED5F-4A4E-AF26-9E379FECFBDF}|FinalProject\\FinalProject.vbproj|solutionrelative:finalproject\\auth.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75821023-ED5F-4A4E-AF26-9E379FECFBDF}|FinalProject\\FinalProject.vbproj|c:\\users\\vince\\onedrive - rancho santiago community college district\\documents\\cmpr105\\finalproject\\finalproject\\passworddatabasedataset3.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}",
+      "RelativeMoniker": "D:0:0:{75821023-ED5F-4A4E-AF26-9E379FECFBDF}|FinalProject\\FinalProject.vbproj|solutionrelative:finalproject\\passworddatabasedataset3.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75821023-ED5F-4A4E-AF26-9E379FECFBDF}|FinalProject\\FinalProject.vbproj|c:\\users\\vince\\onedrive - rancho santiago community college district\\documents\\cmpr105\\finalproject\\finalproject\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{75821023-ED5F-4A4E-AF26-9E379FECFBDF}|FinalProject\\FinalProject.vbproj|solutionrelative:finalproject\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75821023-ED5F-4A4E-AF26-9E379FECFBDF}|FinalProject\\FinalProject.vbproj|c:\\users\\vince\\onedrive - rancho santiago community college district\\documents\\cmpr105\\finalproject\\finalproject\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|6185191f-1008-4fb2-a715-3a4e4f27e610"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\vince\\OneDrive - Rancho Santiago Community College District\\Documents\\CMPR105\\FinalProject\\FinalProject\\App.config",
+              "RelativeDocumentMoniker": "FinalProject\\App.config",
+              "ToolTip": "C:\\Users\\vince\\OneDrive - Rancho Santiago Community College District\\Documents\\CMPR105\\FinalProject\\FinalProject\\App.config",
+              "RelativeToolTip": "FinalProject\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-05-29T01:49:20.903Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "PasswordDatabaseDataSet3.xsd",
+              "DocumentMoniker": "C:\\Users\\vince\\OneDrive - Rancho Santiago Community College District\\Documents\\CMPR105\\FinalProject\\FinalProject\\PasswordDatabaseDataSet3.xsd",
+              "RelativeDocumentMoniker": "FinalProject\\PasswordDatabaseDataSet3.xsd",
+              "ToolTip": "C:\\Users\\vince\\OneDrive - Rancho Santiago Community College District\\Documents\\CMPR105\\FinalProject\\FinalProject\\PasswordDatabaseDataSet3.xsd",
+              "RelativeToolTip": "FinalProject\\PasswordDatabaseDataSet3.xsd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003579|",
+              "WhenOpened": "2025-05-29T01:49:19.086Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Auth.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\vince\\OneDrive - Rancho Santiago Community College District\\Documents\\CMPR105\\FinalProject\\FinalProject\\Auth.vb",
+              "RelativeDocumentMoniker": "FinalProject\\Auth.vb",
+              "ToolTip": "C:\\Users\\vince\\OneDrive - Rancho Santiago Community College District\\Documents\\CMPR105\\FinalProject\\FinalProject\\Auth.vb [Design]",
+              "RelativeToolTip": "FinalProject\\Auth.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-05-29T01:49:15.563Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Regristration.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\vince\\OneDrive - Rancho Santiago Community College District\\Documents\\CMPR105\\FinalProject\\FinalProject\\Regristration.vb",
+              "RelativeDocumentMoniker": "FinalProject\\Regristration.vb",
+              "ToolTip": "C:\\Users\\vince\\OneDrive - Rancho Santiago Community College District\\Documents\\CMPR105\\FinalProject\\FinalProject\\Regristration.vb [Design]",
+              "RelativeToolTip": "FinalProject\\Regristration.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-05-29T01:28:12.412Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "EditForm.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\vince\\OneDrive - Rancho Santiago Community College District\\Documents\\CMPR105\\FinalProject\\FinalProject\\EditForm.vb",
+              "RelativeDocumentMoniker": "FinalProject\\EditForm.vb",
+              "ToolTip": "C:\\Users\\vince\\OneDrive - Rancho Santiago Community College District\\Documents\\CMPR105\\FinalProject\\FinalProject\\EditForm.vb [Design]",
+              "RelativeToolTip": "FinalProject\\EditForm.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-05-29T01:27:59.284Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MainForm.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\vince\\OneDrive - Rancho Santiago Community College District\\Documents\\CMPR105\\FinalProject\\FinalProject\\MainForm.vb",
+              "RelativeDocumentMoniker": "FinalProject\\MainForm.vb",
+              "ToolTip": "C:\\Users\\vince\\OneDrive - Rancho Santiago Community College District\\Documents\\CMPR105\\FinalProject\\FinalProject\\MainForm.vb [Design]",
+              "RelativeToolTip": "FinalProject\\MainForm.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-05-29T01:27:58.023Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Login.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\vince\\OneDrive - Rancho Santiago Community College District\\Documents\\CMPR105\\FinalProject\\FinalProject\\Login.vb",
+              "RelativeDocumentMoniker": "FinalProject\\Login.vb",
+              "ToolTip": "C:\\Users\\vince\\OneDrive - Rancho Santiago Community College District\\Documents\\CMPR105\\FinalProject\\FinalProject\\Login.vb [Design]",
+              "RelativeToolTip": "FinalProject\\Login.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-05-29T01:20:17.225Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FinalProject",
+              "DocumentMoniker": "C:\\Users\\vince\\OneDrive - Rancho Santiago Community College District\\Documents\\CMPR105\\FinalProject\\FinalProject\\FinalProject.vbproj",
+              "RelativeDocumentMoniker": "FinalProject\\FinalProject.vbproj",
+              "ToolTip": "C:\\Users\\vince\\OneDrive - Rancho Santiago Community College District\\Documents\\CMPR105\\FinalProject\\FinalProject\\FinalProject.vbproj",
+              "RelativeToolTip": "FinalProject\\FinalProject.vbproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-05-26T20:01:41.081Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SettingsMenu.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\vince\\OneDrive - Rancho Santiago Community College District\\Documents\\CMPR105\\FinalProject\\FinalProject\\SettingsMenu.vb",
+              "RelativeDocumentMoniker": "FinalProject\\SettingsMenu.vb",
+              "ToolTip": "C:\\Users\\vince\\OneDrive - Rancho Santiago Community College District\\Documents\\CMPR105\\FinalProject\\FinalProject\\SettingsMenu.vb [Design]",
+              "RelativeToolTip": "FinalProject\\SettingsMenu.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-05-28T22:12:02.278Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SettingsMenu.vb",
+              "DocumentMoniker": "C:\\Users\\vince\\OneDrive - Rancho Santiago Community College District\\Documents\\CMPR105\\FinalProject\\FinalProject\\SettingsMenu.vb",
+              "RelativeDocumentMoniker": "FinalProject\\SettingsMenu.vb",
+              "ToolTip": "C:\\Users\\vince\\OneDrive - Rancho Santiago Community College District\\Documents\\CMPR105\\FinalProject\\FinalProject\\SettingsMenu.vb",
+              "RelativeToolTip": "FinalProject\\SettingsMenu.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-05-28T22:07:16.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Regristration.vb",
+              "DocumentMoniker": "C:\\Users\\vince\\OneDrive - Rancho Santiago Community College District\\Documents\\CMPR105\\FinalProject\\FinalProject\\Regristration.vb",
+              "RelativeDocumentMoniker": "FinalProject\\Regristration.vb",
+              "ToolTip": "C:\\Users\\vince\\OneDrive - Rancho Santiago Community College District\\Documents\\CMPR105\\FinalProject\\FinalProject\\Regristration.vb",
+              "RelativeToolTip": "FinalProject\\Regristration.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-05-28T22:07:13.22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainForm.vb",
+              "DocumentMoniker": "C:\\Users\\vince\\OneDrive - Rancho Santiago Community College District\\Documents\\CMPR105\\FinalProject\\FinalProject\\MainForm.vb",
+              "RelativeDocumentMoniker": "FinalProject\\MainForm.vb",
+              "ToolTip": "C:\\Users\\vince\\OneDrive - Rancho Santiago Community College District\\Documents\\CMPR105\\FinalProject\\FinalProject\\MainForm.vb",
+              "RelativeToolTip": "FinalProject\\MainForm.vb",
+              "ViewState": "AgIAAFgAAACgMjMzM7MhwIEAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-05-28T22:07:10.753Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Login.vb",
+              "DocumentMoniker": "C:\\Users\\vince\\OneDrive - Rancho Santiago Community College District\\Documents\\CMPR105\\FinalProject\\FinalProject\\Login.vb",
+              "RelativeDocumentMoniker": "FinalProject\\Login.vb",
+              "ToolTip": "C:\\Users\\vince\\OneDrive - Rancho Santiago Community College District\\Documents\\CMPR105\\FinalProject\\FinalProject\\Login.vb",
+              "RelativeToolTip": "FinalProject\\Login.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-05-28T22:07:08.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EditForm.vb",
+              "DocumentMoniker": "C:\\Users\\vince\\OneDrive - Rancho Santiago Community College District\\Documents\\CMPR105\\FinalProject\\FinalProject\\EditForm.vb",
+              "RelativeDocumentMoniker": "FinalProject\\EditForm.vb",
+              "ToolTip": "C:\\Users\\vince\\OneDrive - Rancho Santiago Community College District\\Documents\\CMPR105\\FinalProject\\FinalProject\\EditForm.vb",
+              "RelativeToolTip": "FinalProject\\EditForm.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-05-28T22:07:05.613Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "FloatingWindowState": {
+        "Id": "b2065df2-9e54-4e94-83e6-f452d94bbf96",
+        "Display": 0,
+        "X": 1560,
+        "Y": 93,
+        "Width": 3498,
+        "Height": 1768,
+        "WindowState": 0
+      },
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Auth.vb",
+              "DocumentMoniker": "C:\\Users\\vince\\OneDrive - Rancho Santiago Community College District\\Documents\\CMPR105\\FinalProject\\FinalProject\\Auth.vb",
+              "RelativeDocumentMoniker": "FinalProject\\Auth.vb",
+              "ToolTip": "C:\\Users\\vince\\OneDrive - Rancho Santiago Community College District\\Documents\\CMPR105\\FinalProject\\FinalProject\\Auth.vb",
+              "RelativeToolTip": "FinalProject\\Auth.vb",
+              "ViewState": "AgIAABkAAABAmZmZmZkcwCQAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-05-28T20:06:24.814Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
