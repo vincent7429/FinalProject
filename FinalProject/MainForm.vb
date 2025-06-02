@@ -112,7 +112,6 @@
             Dim sql As String = "DELETE FROM [database] WHERE ID = @ID"
             Dim cmd As OleDb.OleDbCommand = New OleDb.OleDbCommand(sql, connect)
             cmd.Parameters.AddWithValue("@ID", passwordId)
-            connect.Open()
             cmd.ExecuteNonQuery()
             connect.Close()
             Refresh()
@@ -149,7 +148,7 @@
         Dim specialCharacters As String() = {"!", "@", "#", "$", "%", "^", "&", "*", "(", ")", "-", "_", "=", "+", "[", "]", "{", "}", "|", "\", ";", ":", "'", """", ",", ".", "<", ">", "/", "?"}
         Dim rnd As New Random()
         For i As Integer = 0 To passwordLength - 1
-            Dim choice As Integer = rnd.Next(0, 3) ' 0 for lowercase, 1 for uppercase, 2 for numbers, 3 for special characters
+            Dim choice As Integer = rnd.Next(0, 4) ' 0 for lowercase, 1 for uppercase, 2 for numbers, 3 for special characters
             Select Case choice
                 Case 0
                     ' Add a random lowercase letter
